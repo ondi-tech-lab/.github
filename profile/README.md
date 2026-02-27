@@ -1,110 +1,87 @@
 # 👋 Hi, I'm Ondi
 
-Systems Engineer with 6+ years of backend development experience.  
-Currently expanding into enterprise systems, automation, and security-focused engineering.
-
-I work at the intersection of:
-
-- Backend Development
-- IBM i (AS400) Enterprise Systems
-- Linux & Automation
-- Security & Log Analysis
+🔒 Focused on becoming an **IBM i (AS400) Recovery & Integrity Specialist**  
+🐧 Linux system enthusiast with hands-on infrastructure experience  
+📊 Log analysis & system behavior deep-diver  
 
 ---
 
-## 🚀 Background
+## 🎯 Current Direction
 
-Started as a backend web developer building and maintaining production systems using:
+I am building deep expertise in:
 
-- PHP
-- MySQL / PostgreSQL
-- MS SQL Server
-- REST APIs
-- Production debugging & issue investigation
+- IBM i / AS400 system architecture
+- Journaling & Receiver Lifecycle Management
+- Data Recovery & Failure Simulation
+- Object-based OS behavior
+- Production integrity & disk growth prevention
 
-Over time, my interest shifted toward **how systems actually run in production**, not just how they are built.
+Long-term goal:  
+Become a niche specialist in **critical enterprise system recovery & stability**.
 
 ---
 
-## 🖥 Current Engineering Focus
+## 🖥️ Linux & Infrastructure Background
 
-### 🏦 IBM i / AS400
-- RPGLE structured programming
+Strong hands-on experience with:
+
+- Linux server administration (Rocky / Debian-based systems)
+- Bash scripting & automation
+- Log analysis (manual & structured investigation)
+- System monitoring & troubleshooting
+- Personal infrastructure projects (24/7 environment)
+
+I enjoy analyzing:
+- Disk growth patterns
+- Process anomalies
+- Log-based root cause analysis
+- Service behavior under load
+
+---
+
+## 🔬 What I Like Solving
+
+- "Why did this system fail?"
+- "Where did the disk space go?"
+- "What exactly changed before the incident?"
+- "Can we recover without data loss?"
+
+I prefer deep technical analysis over surface-level solutions.
+
+---
+
+## 🛠️ Current Learning Stack
+
+**Primary Track (Long-Term Focus)**
+- IBM i (AS400)
 - DB2 for i
-- Enterprise legacy system maintenance
-- Root cause analysis simulation
-- Production mindset & reliability
+- Journaling & Recovery
+- CL Commands
+- RPGLE (planned)
 
-### 🐧 Linux & Automation
-- Bash scripting
-- Cronjob automation
-- Log rotation & system monitoring
-- Process investigation
-- Server-level debugging
-
-### 📊 Log & Incident Analysis
-- Application log tracing
-- Failure pattern identification
-- Root cause documentation
-- Preventive action modeling
-
-### 🔐 Security & Malware Curiosity
-- Malware behavior fundamentals
-- Static & basic dynamic analysis
-- System hardening concepts
-- Secure coding practices
+**Supporting Stack**
+- Linux infrastructure
+- Bash automation
+- Log analysis
+- System diagnostics
 
 ---
 
-## 🧠 Engineering Philosophy
+## 📈 Philosophy
 
-- Systems fail for reasons — find the root cause.
-- Automation prevents human error.
-- Logs tell stories — learn to read them.
-- Stability is an engineering achievement.
-- Legacy systems deserve respect, not dismissal.
-
----
-
-## 📂 What You'll Find Here
-
-This organization contains structured labs and case studies related to:
-
-- IBM i / RPGLE practice
-- Linux automation scripts
-- Cronjob reliability testing
-- Log analysis experiments
-- Incident simulation
-- Secure coding & system experiments
-
-Each repository focuses on:
-- Practical scenarios
-- Clear documentation
-- Production-oriented thinking
+I prefer:
+- Stable enterprise systems over trendy stacks
+- Long-term mastery over fast switching
+- Deep system understanding over surface-level familiarity
+- Niche expertise over popularity
 
 ---
 
-## 🎯 Long-Term Direction
+## 📬 Connect
 
-Building capability in:
-
-- Enterprise system reliability engineering
-- Mission-critical backend environments
-- Infrastructure-level troubleshooting
-- Security-aware system operations
-- Cross-region engineering opportunities (APAC)
-
----
-
-## 📬 Open To
-
-- Technical discussions
-- Enterprise system challenges
-- Automation ideas
-- Security learning exchange
-- Engineering collaboration
-
----
-
-> “Good developers write code.  
-> Good engineers understand systems.”
+Always open to discussions about:
+- Enterprise systems
+- Recovery strategies
+- System integrity
+- Log analysis
+- Infrastructure resilience
