@@ -67,16 +67,6 @@ I prefer deep technical analysis over surface-level solutions.
 
 ---
 
-## 📈 Philosophy
-
-I prefer:
-- Stable enterprise systems over trendy stacks
-- Long-term mastery over fast switching
-- Deep system understanding over surface-level familiarity
-- Niche expertise over popularity
-
----
-
 ## 📬 Connect
 
 Always open to discussions about:
