@@ -1,77 +1,98 @@
 # 👋 Hi, I'm Ondi
 
-🔒 Focused on becoming an **IBM i (AS400) Recovery & Integrity Specialist**  
-🐧 Linux system enthusiast with hands-on infrastructure experience  
-📊 Log analysis & system behavior deep-diver  
+🔒 Future IBM i (AS400) Recovery & Integrity Specialist  
+🐧 Linux Infrastructure Enthusiast  
+🛡️ Blue Team & Log Analysis Practitioner  
 
 ---
 
-## 🎯 Current Direction
+## 🎯 Long-Term Direction
 
-I am building deep expertise in:
+I am currently focusing on mastering:
 
 - IBM i / AS400 system architecture
+- DB2 for i
 - Journaling & Receiver Lifecycle Management
 - Data Recovery & Failure Simulation
-- Object-based OS behavior
-- Production integrity & disk growth prevention
-
-Long-term goal:  
-Become a niche specialist in **critical enterprise system recovery & stability**.
+- Object-based OS integrity
 
 ---
 
-## 🖥️ Linux & Infrastructure Background
+## 🐧 Linux & Infrastructure Experience
 
-Strong hands-on experience with:
+Hands-on experience with:
 
-- Linux server administration (Rocky / Debian-based systems)
+- Linux server administration (Rocky Linux / Debian-based)
 - Bash scripting & automation
-- Log analysis (manual & structured investigation)
-- System monitoring & troubleshooting
-- Personal infrastructure projects (24/7 environment)
+- Self-managed 24/7 infrastructure environment
+- Disk usage analysis & system troubleshooting
+- Service monitoring & process investigation
 
-I enjoy analyzing:
-- Disk growth patterns
-- Process anomalies
-- Log-based root cause analysis
-- Service behavior under load
+I enjoy low-level system behavior analysis and infrastructure control.
+
+---
+
+## 🛡️ Blue Team & Log Analysis
+
+Active in:
+
+- Log investigation & anomaly detection
+- Incident-style analysis (system & application logs)
+- HackTheBox / CTF challenges (defensive & log-focused tracks)
+
+Strong interest in:
+
+- Root cause analysis
+- Attack pattern detection
+- System event correlation
+- Security telemetry interpretation
+
+I approach systems with a **forensic and defensive mindset**.
 
 ---
 
 ## 🔬 What I Like Solving
 
-- "Why did this system fail?"
-- "Where did the disk space go?"
-- "What exactly changed before the incident?"
-- "Can we recover without data loss?"
-
-I prefer deep technical analysis over surface-level solutions.
+- Why did this system fail?
+- What exactly changed before the incident?
+- Can we recover without data loss?
+- How do we prevent silent corruption?
+- What do the logs really say?
 
 ---
 
-## 🛠️ Current Learning Stack
+## 🛠️ Current Technical Focus
 
-**Primary Track (Long-Term Focus)**
+### Primary Track (Enterprise Stability)
 - IBM i (AS400)
 - DB2 for i
 - Journaling & Recovery
-- CL Commands
+- CL commands
 - RPGLE (planned)
 
-**Supporting Stack**
+### Supporting & Defensive Stack
 - Linux infrastructure
 - Bash automation
 - Log analysis
-- System diagnostics
+- Blue team methodologies
+- HTB / CTF defensive challenges
 
 ---
 
-## 📬 Connect
+## 📈 Philosophy
 
-Always open to discussions about:
-- Enterprise systems
-- Recovery strategies
-- System integrity
-- Log analysis
-- Infrastructure resilience
+I prefer:
+
+- Stable enterprise systems over trendy stacks
+- Deep technical mastery over rapid stack-switching
+- Defensive engineering over hype
+- Long-term resilience over short-term excitement
+
+---
+
+## 📬 Open To
+
+- Enterprise system discussions
+- Recovery & resilience strategies
+- Log analysis collaboration
+- Defensive infrastructure engineering
