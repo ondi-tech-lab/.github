@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ondi
 
-🔒 Future IBM i (AS400) Recovery & Integrity Specialist  
+🔒 WordPress & VPS Malware Remediation Specialist  
 🐧 Linux Infrastructure Enthusiast  
 🛡️ Blue Team & Log Analysis Practitioner  
 
@@ -8,13 +8,21 @@
 
 ## 🎯 Long-Term Direction
 
-I am currently focusing on mastering:
+Focused on detecting, removing, and preventing malware on WordPress sites and Linux VPS environments
 
-- IBM i / AS400 system architecture
-- DB2 for i
-- Journaling & Receiver Lifecycle Management
-- Data Recovery & Failure Simulation
-- Object-based OS integrity
+Core Skills:
+- WordPress core/file integrity scanning (using WP-CLI, Tripwire, or custom scripts)
+- Malware pattern recognition (backdoors, obfuscated code, hidden IFrames, SEO spam)
+- VPS-level cleanup: suspicious processes, cron jobs, SSH keys, and webshell detection
+- Post-cleanup hardening: file permissions, .htaccess rules, PHP restrictions
+- Recovery & forensic logging: before/after snapshots, change auditing, log correlation
+- Automation: Bash/Python scripts for scanning, quarantine, and reporting
+
+Tools I Use:
+- ClamAV, rkhunter, Lynis, Wordfence CLI, Sucuri Scanner (CLI/API)
+- Custom YARA rules for WordPress-specific malware
+- Git-based rollback & file diffing for infected sites
+- Log analysis with journalctl, auditd, and fail2ban logs
 
 ---
 
@@ -63,13 +71,6 @@ I approach systems with a **forensic and defensive mindset**.
 
 ## 🛠️ Current Technical Focus
 
-### Primary Track (Enterprise Stability)
-- IBM i (AS400)
-- DB2 for i
-- Journaling & Recovery
-- CL commands
-- RPGLE (planned)
-
 ### Supporting & Defensive Stack
 - Linux infrastructure
 - Bash automation
@@ -83,7 +84,6 @@ I approach systems with a **forensic and defensive mindset**.
 
 I prefer:
 
-- Stable enterprise systems over trendy stacks
 - Deep technical mastery over rapid stack-switching
 - Defensive engineering over hype
 - Long-term resilience over short-term excitement
@@ -92,7 +92,6 @@ I prefer:
 
 ## 📬 Open To
 
-- Enterprise system discussions
 - Recovery & resilience strategies
 - Log analysis collaboration
 - Defensive infrastructure engineering
